@@ -1,9 +1,9 @@
 Ansible Role: lazygit
 =====================
 
-[![Build Status](https://travis-ci.com/gantsign/ansible-role-lazygit.svg?branch=master)](https://travis-ci.com/gantsign/ansible-role-lazygit)
+[![Build Status](https://travis-ci.com/gantsign/ansible_role_lazygit.svg?branch=master)](https://travis-ci.com/gantsign/ansible_role_lazygit)
 [![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-gantsign.lazygit-blue.svg)](https://galaxy.ansible.com/gantsign/lazygit)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/gantsign/ansible-role-lazygit/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/gantsign/ansible_role_lazygit/master/LICENSE)
 
 Ansible role for installing
 [lazygit](https://github.com/jesseduffield/lazygit) a simple terminal UI for

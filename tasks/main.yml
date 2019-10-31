@@ -1,2 +1,11 @@
 ---
-# tasks file for ansible_role_lazygit
+- name: add lazygit ppa
+  become: yes
+  apt_repository:
+    repo: 'ppa:lazygit-team/release'
+
+- name: install lazygit
+  become: yes
+  apt:
+    name: lazygit
+    state: present

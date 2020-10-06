@@ -12,7 +12,7 @@ Ansible role for installing
 Requirements
 ------------
 
-* Ansible >= 2.7
+* Ansible >= 2.8
 
 * Ubuntu
 

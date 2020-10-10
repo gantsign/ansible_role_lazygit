@@ -1,4 +1,10 @@
 ---
+- name: install gnupg2
+  become: yes
+  apt:
+    name: gnupg2
+    state: present
+
 - name: add lazygit ppa
   become: yes
   apt_repository:

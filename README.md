@@ -1,7 +1,7 @@
 Ansible Role: lazygit
 =====================
 
-[![Build Status](https://travis-ci.com/gantsign/ansible_role_lazygit.svg?branch=master)](https://travis-ci.com/gantsign/ansible_role_lazygit)
+[![Tests](https://github.com/gantsign/ansible_role_lazygit/workflows/Tests/badge.svg)](https://github.com/gantsign/ansible_role_lazygit/actions?query=workflow%3ATests)
 [![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-gantsign.lazygit-blue.svg)](https://galaxy.ansible.com/gantsign/lazygit)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/gantsign/ansible_role_lazygit/master/LICENSE)
 
